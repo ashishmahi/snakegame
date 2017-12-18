@@ -1,0 +1,35 @@
+
+table {
+  margin-left: 500px;
+  height: 900px;
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 900px;
+  position: fixed;
+  background-color: black;
+}
+
+td {
+  border: 1px solid black;
+  height: 1px;
+  width: 1px;
+}
+
+.snake {
+  border: 0px solid white;
+  background-color: white;
+}
+.food{
+  background-color: red;
+}
+
+.scoreBoard{
+
+}
+
+#display{
+  margin-left: 700px;
+  margin-top: 300px;
+  font-size: 70px;
+  position: fixed;
+}

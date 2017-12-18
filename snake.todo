@@ -1,0 +1,14 @@
+Aim: to make a snake game
+features :
+  ☐ move snake
+  ☐ eat food
+  ☐ end game
+  ☐
+
+1: move snake
+  ☐ draw a table as game background;
+  ☐ create a snake
+  ☐ when a event is generated then  move that snake to respected direction
+
+☐ get snake snakePosition [1,2,3,4]
+☐ update new snakePosition that [2,3,4,5]
