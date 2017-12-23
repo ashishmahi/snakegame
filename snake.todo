@@ -5,10 +5,22 @@ features :
   ☐ end game
   ☐
 
-1: move snake
-  ☐ draw a table as game background;
-  ☐ create a snake
-  ☐ when a event is generated then  move that snake to respected direction
+1:
 
-☐ get snake snakePosition [1,2,3,4]
-☐ update new snakePosition that [2,3,4,5]
+✔ move snake @done(2017-12-18 16:00)
+
+  ✔ draw a table as game background; @done(2017-12-18 15:58)
+  ✔ create a snake @done(2017-12-18 15:58)
+  ✔ when a event is generated then  move that snake to respected direction @done(2017-12-18 15:58)
+2:
+
+✔ eat food @done(2017-12-18 16:00)
+
+  ✔ generate food @done(2017-12-18 15:59) @project(2)
+  ✔ after snake eating food increase size of snake @done(2017-12-18 15:59) @project(2)
+  ✔ again generate food @done(2017-12-18 15:59) @project(2)
+
+3:
+
+☐ end game
+  ☐

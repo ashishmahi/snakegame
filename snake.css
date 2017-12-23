@@ -1,10 +1,10 @@
 
 table {
-  margin-left: 500px;
-  height: 900px;
+  margin-left: 450px;
+  height: 700px;
   border-collapse: collapse;
   border: 1px solid black;
-  width: 900px;
+  width: 700px;
   position: fixed;
   background-color: black;
 }
